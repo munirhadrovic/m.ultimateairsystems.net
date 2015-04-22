@@ -187,7 +187,7 @@
 
 						</script>
 					</div> -->	
-					<div class="ui-block-b"><a class="ui-btn velikodugme buttons-radius" href="#contactform" data-transition="<?php echo $transitionefect ?>"><img src='img/mail.png' style='width: 50px; padding-top: 5px;'><br>Contact Us</a></div>   
+					<div class="ui-block-b"><a class="ui-btn velikodugme buttons-radius" href="#contactform" data-transition="<?php echo $transitionefect ?>"><img src='img/mail.png' style='width: 50px; padding-top: 5px;'><br>Text Us</a></div>
 				</fieldset>				
 				
 				<div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
